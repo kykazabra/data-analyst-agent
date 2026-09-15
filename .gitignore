@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+credentials.json
+agent_logs.log
+agent_results.ipynb
+data/
+*.csv
+*.xlsx
+.idea/
+.ipynb_checkpoints/
